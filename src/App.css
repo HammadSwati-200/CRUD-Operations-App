@@ -1,0 +1,10 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    padding-top: 60px !important;
+}
+
+.wrapper h1 {
+    border-radius: 8px 8px 0 0;
+    font-weight: 600 !important;
+    letter-spacing: 2px;
+}
