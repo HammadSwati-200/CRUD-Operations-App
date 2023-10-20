@@ -1,8 +1,12 @@
-# React + Vite
+# Crud Operation App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Author - Hammad Swati
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Title: MUI React Data Table
+
+Description:
+This is a React data table application built using Material-UI (MUI) components. The application allows users to view, edit, and manage tabular data. It features functionalities such as adding new rows, editing existing data, and deleting rows. Data is fetched from a JSON API endpoint (https://jsonplaceholder.typicode.com/users). The application also includes a dialog to handle input validation, ensuring all fields are filled before adding a new row. Additionally, users can view a detailed profile by clicking on the "View" button, which navigates them to a profile page using React Router. This project serves as a practical example of creating a responsive and interactive data table with Material-UI in a React application.
+
+
